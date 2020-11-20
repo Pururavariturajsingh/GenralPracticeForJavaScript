@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+
+}/* To bring box excatly at center
+html,body{
+    height: 100%;
+    margin: 0%;
+}
+.box{
+    display: flex; min-height: 100%;justify-content: center;align-items: center;
+}
+.box div{
+    background-color: blue;width: 100px;height: 100px;
+    
+}*/
